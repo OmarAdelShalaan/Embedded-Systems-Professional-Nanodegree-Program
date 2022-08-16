@@ -1,6 +1,7 @@
 
-###Project Requirements
-    *Development environment preparation
+##Project Requirements
+
+   -  Development environment preparation
    - Implement the card module
    - Implement the terminal module
    - Implement the server module
