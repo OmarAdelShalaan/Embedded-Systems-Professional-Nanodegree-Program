@@ -20,7 +20,7 @@
 
 ### Projects
 - [ ] Payment Application
-- [ ] On-demand Traffic light control
+   - [ ] On-demand Traffic light control
      - [ ] Working with a Mock Client
      - [ ] Resume Review Career Service
      - [ ] Cover Letter Career Service
