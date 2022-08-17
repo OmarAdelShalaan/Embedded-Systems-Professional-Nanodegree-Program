@@ -19,9 +19,9 @@
      15. Career Services for EgFwd Program
 
 ### Projects
-    [ ] /Payment Application
-    [ ] \On-demand Traffic light control
-    [ ] Working with a Mock Client
+    - [ ] /Payment Application
+    - [ ] \On-demand Traffic light control
+    - [ ] Working with a Mock Client
     [ ] Resume Review Career Service
     [ ] Cover Letter Career Service
     [ ] LinkedIn Profile Career Service
