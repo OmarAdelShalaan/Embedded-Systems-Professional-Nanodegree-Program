@@ -1,7 +1,7 @@
 # Embedded-Systems-Professional-Nanodegree-Program
 ## Embedded Systems Professional
 
-### Core Curriculum
+     ### Core Curriculum
      1. Introduction to the Program
      2. Recap on C Programming
      3. The C build process
@@ -18,14 +18,15 @@
      14. Managing Freelancing Projects
      15. Career Services for EgFwd Program
 
-     ### Projects
-     - [ ] Payment Application
-     - [ ] On-demand Traffic light control
-     - [ ] Working with a Mock Client
-     - [ ] Resume Review Career Service
-     - [ ] Cover Letter Career Service
-     - [ ] LinkedIn Profile Career Service
-     - [ ] GitHub Profile Career Service
+
+   ### Projects
+   - [ ] Payment Application
+   - [ ] On-demand Traffic light control
+   - [ ] Working with a Mock Client
+   - [ ] Resume Review Career Service
+   - [ ] Cover Letter Career Service
+   - [ ] LinkedIn Profile Career Service
+   - [ ] GitHub Profile Career Service
 
 ## Schedule PDF 
    > https://drive.google.com/file/d/13_fVuwgbhx2a5_Le9_0hy9-sOP0bD_HB/view?usp=sharing
