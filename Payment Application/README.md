@@ -26,8 +26,8 @@
 
       **Development environment preparation**
       
-              -   Create modules folders
-              -   Create .c and .h file for each module
+              - Create modules folders
+              - Create .c and .h file for each module
               -   Add header file guard
               -   Create the main.c file
 
