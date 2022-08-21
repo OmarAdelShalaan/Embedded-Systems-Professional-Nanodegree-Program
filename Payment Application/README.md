@@ -24,14 +24,13 @@
 
 ### The project can be distributed over 6 main tasks:
 
-      **Development environment preparation**
-      
-             * Create modules folders
-              * Create .c and .h file for each module
-              -   Add header file guard
-              -   Create the main.c file
+   **Development environment preparation**
+        -   Create modules folders
+        -   Create .c and .h file for each module
+        -   Add header file guard
+        -   Create the main.c file
 
-      #### **Implement the card module**
+   #### **Implement the card module**
       
               -   Fill in card.h file with functions' prototypes and typedefs
               -   Implement getCardHolderName function
