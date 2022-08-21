@@ -19,7 +19,7 @@
     - Testing the application
 
 ### [Project Instructions Video](https://drive.google.com/file/d/1j_cUsUeqjQGy7Qt7IaLZPnssU1n6Qyy1/view?usp=sharing)
-![Application Flowchart](https://drive.google.com/drive/folders/15136Aqs8Fm8Oe4LBR5IUGc64mxlfNGAG)
+![Application Flowchart](https://drive.google.com/file/d/1NwftWZq8P9JkiO7-CAEIahu9OeWqbHHS/view)
 
 
 ### **The project can be distributed over 6 main tasks:**
