@@ -22,29 +22,27 @@
 ![Application Flowchart](https://drive.google.com/file/d/1NwftWZq8P9JkiO7-CAEIahu9OeWqbHHS/view?usp=sharing)
 
 
-### The project can be distributed over 6 main tasks:
+### **The project can be distributed over 6 main tasks:**
 
-   ## Development environment preparation
+   #### Development environment preparation
         -   Create modules folders
         -   Create .c and .h file for each module
         -   Add header file guard
         -   Create the main.c file
 
-   #### **Implement the card module**
-      
-              -   Fill in card.h file with functions' prototypes and typedefs
-              -   Implement getCardHolderName function
-              -   Implement getCardExpiryDate function
-              -   Implement getCardPAN function
+   #### Implement the card module
+        -   Fill in card.h file with functions' prototypes and typedefs
+        -   Implement getCardHolderName function
+        -   Implement getCardExpiryDate function
+        -   Implement getCardPAN function
 
-      #### **Implement the terminal module**
-
-              -   Fill in terminal.h file with functions' prototypes and typedefs
-              -   Implement getTransactionDate function
-              -   Implement isCardExpried function
-              -   Implement gatTransactionAmount function
-              -   Implement isBelowMaxAmount function
-              -   Implement setMaxAmount function
+   #### Implement the terminal module
+        -   Fill in terminal.h file with functions' prototypes and typedefs
+        -   Implement getTransactionDate function
+        -   Implement isCardExpried function
+        -   Implement gatTransactionAmount function
+        -   Implement isBelowMaxAmount function
+        -   Implement setMaxAmount function
 
       #### **Implement the server module**
 
