@@ -48,7 +48,7 @@
               -   Implement isBelowMaxAmount function
               -   Implement setMaxAmount function
 
-      #### Implement the server module
+      ####Implement the server module
 
               -   Fill in server.h file with functions' prototypes and typedefs
               -   Implement server-side accounts' database
@@ -71,8 +71,8 @@
               -  Expired card user story
               -  Invalid card user story
 
-# [Project Rubric](https://drive.google.com/file/d/1wwkbG36Q5t9bB7oUNJFR6oiEvDodM-GA/view?usp=sharing)
-# [Notion Project](https://www.notion.so/FWD-e0d6e4ee4304402aafd0621a65742a31)
+### [Project Rubric](https://drive.google.com/file/d/1wwkbG36Q5t9bB7oUNJFR6oiEvDodM-GA/view?usp=sharing)
+### [Notion Project](https://www.notion.so/FWD-e0d6e4ee4304402aafd0621a65742a31)
 
 ### [Implement the card module Video](https://drive.google.com/drive/folders/1Hz-rbGvAo1RuQSRjge3SJX_NlU7rvye8?usp=sharing)
 ### [Implement the terminal module Video](https://drive.google.com/drive/folders/1XLm9kIIf7bdv9NM4dnBIPEc9CWMGaijy?usp=sharing)
