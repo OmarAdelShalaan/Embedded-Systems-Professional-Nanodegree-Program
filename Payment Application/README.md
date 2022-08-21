@@ -44,28 +44,25 @@
         -   Implement isBelowMaxAmount function
         -   Implement setMaxAmount function
 
-      #### **Implement the server module**
+   #### Implement the server module
+        -   Fill in server.h file with functions' prototypes and typedefs
+        -   Implement server-side accounts' database
+        -   Implement server-side transactions' database
+        -   Implement recieveTransactionData function
+        -   Implement isValidAccount function
+        -   Implement isAmountAvailable function
+        -   Implement saveTransaction function
 
-              -   Fill in server.h file with functions' prototypes and typedefs
-              -   Implement server-side accounts' database
-              -   Implement server-side transactions' database
-              -   Implement recieveTransactionData function
-              -   Implement isValidAccount function
-              -   Implement isAmountAvailable function
-              -   Implement saveTransaction function
+   #### Implement the application
+        -   Fill in application.h file with functions' prototypes
+        -   Implement appStart function
 
-      #### **Implement the application**
-
-              -   Fill in application.h file with functions' prototypes
-              -   Implement appStart function
-
-      #### **Testing the application**
-
-              -  Transaction approved user story
-              -  Exceed the maximum amount user story
-              -  Insufficient fund user story
-              -  Expired card user story
-              -  Invalid card user story
+   #### Testing the application
+        -  Transaction approved user story
+        -  Exceed the maximum amount user story
+        -  Insufficient fund user story
+        -  Expired card user story
+        -  Invalid card user story
 
 ### [Project Rubric](https://drive.google.com/file/d/1wwkbG36Q5t9bB7oUNJFR6oiEvDodM-GA/view?usp=sharing)
 ### [Notion Project](https://www.notion.so/FWD-e0d6e4ee4304402aafd0621a65742a31)
