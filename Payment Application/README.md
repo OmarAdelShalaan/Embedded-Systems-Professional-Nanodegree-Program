@@ -19,7 +19,7 @@
     - Testing the application
 
 ### [Project Instructions Video](https://drive.google.com/file/d/1j_cUsUeqjQGy7Qt7IaLZPnssU1n6Qyy1/view?usp=sharing)
-![Application Flowchart](https://drive.google.com/file/d/1NwftWZq8P9JkiO7-CAEIahu9OeWqbHHS/view)
+![Application Flowchart](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/blob/main/Payment%20Application/payment-flowchart.jpeg?raw=true)
 
 
 ### **The project can be distributed over 6 main tasks:**
