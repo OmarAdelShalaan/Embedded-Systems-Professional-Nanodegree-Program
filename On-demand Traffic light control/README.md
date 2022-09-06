@@ -35,9 +35,9 @@
          User story 3
          User story 4
          User story 5
-   #### Layered architecture     
+   ### Layered architecture     
    ![Layered architecture](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/blob/main/On-demand%20Traffic%20light%20control/Layered%20architecture%20.png?raw=true)
-   #### folder structure
+   ### folder structure
    ![folder structure](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/blob/main/On-demand%20Traffic%20light%20control/folder%20structure.jpeg?raw=true)
 
 ### [Project Rubric](https://drive.google.com/file/d/1sfje2hQYeAuHSwcQzjixZlpyv2Zo1lkT/view?usp=sharing)
