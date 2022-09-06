@@ -17,23 +17,24 @@
 ### [Project Instructions Video](https://drive.google.com/file/d/13d9QV_v_AAngyaQ9Q0BfMupSvoLJe8bt/view?usp=sharing)
 
  ### The project can be distributed over 4 main tasks:
-         #### System Design
-               Read system requirements
-               Prepare system description and system components
-               Make full static architecture for your system
-         #### Prepare your development environment
-               Apply your layered architecture to project's folder structure
-               Prepare all files for development
-         #### Implement your application
-               Implement your drivers
-               Test your drivers
-               Implement system flow
-         #### Test your application
-               User story 1
-               User story 2
-               User story 3
-               User story 4
-               User story 5
+         
+   #### System Design
+         Read system requirements
+         Prepare system description and system components
+         Make full static architecture for your system                 
+   #### Prepare your development environment
+         Apply your layered architecture to project's folder structure
+         Prepare all files for development
+   #### Implement your application
+         Implement your drivers
+         Test your drivers
+         Implement system flow
+   #### Test your application
+         User story 1
+         User story 2
+         User story 3
+         User story 4
+         User story 5
 
 ### [Project Rubric](https://drive.google.com/file/d/1sfje2hQYeAuHSwcQzjixZlpyv2Zo1lkT/view?usp=sharing)
 ### [Notion Project](https://www.notion.so/FWD-e0d6e4ee4304402aafd0621a65742a31)
