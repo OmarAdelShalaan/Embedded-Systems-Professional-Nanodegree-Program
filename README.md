@@ -24,10 +24,10 @@
    - [x] Payment Application
    - [x] On-demand Traffic light control
    - [ ] Working with a Mock Client
-   - [ ] Resume Review Career Service
+   - [x] Resume Review Career Service
    - [ ] Cover Letter Career Service
-   - [ ] LinkedIn Profile Career Service
-   - [ ] GitHub Profile Career Service
+   - [x] LinkedIn Profile Career Service
+   - [x] GitHub Profile Career Service
  	
 
 ### [My Notion Projects](https://www.notion.so/FWD-e0d6e4ee4304402aafd0621a65742a31)
