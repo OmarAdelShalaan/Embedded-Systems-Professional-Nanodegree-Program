@@ -29,6 +29,6 @@
    - [x] LinkedIn Profile Career Service
    - [x] GitHub Profile Career Service
  	
-## [certificate](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/blob/main/certificate.jpg?raw=true)
+## ![certificate](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/blob/main/certificate.jpg?raw=true)
 ### [My Notion Projects](https://www.notion.so/FWD-e0d6e4ee4304402aafd0621a65742a31)
 
